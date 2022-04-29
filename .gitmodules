@@ -1,0 +1,3 @@
+[submodule "JavaTictactoe"]
+	path = JavaTictactoe
+	url = ./JavaTictactoe
